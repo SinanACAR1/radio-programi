@@ -1,0 +1,25 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\bin\Debug\radio programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\bin\Debug\radio programı.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\radio programı.csproj.ResolveComReference.cache
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\radio_programı.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\radio_programı.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\radio programı.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\radio programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\radio programı\obj\x86\Debug\radio programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\bin\Debug\radio programı.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\bin\Debug\radio programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\bin\Debug\Interop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\bin\Debug\AxInterop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\radio programı.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\Interop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\radio programı.csproj.ResolveComReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\radio_programı.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\radio_programı.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\radio programı.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\radio programı.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\radio programı\radio programı\obj\x86\Debug\radio programı.pdb
